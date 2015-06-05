@@ -1,4 +1,4 @@
-float BallOnePositionX = 0;    // X coord of Ball One
+float BallOnePositionX = 10;    // X coord of Ball One
 float BallOnePositionY = 0;    // Y coord of Ball One
 
 float BallOneSpeedX = 0;       // Speed of Ball One in X
